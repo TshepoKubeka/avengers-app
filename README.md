@@ -15,7 +15,7 @@ A beginner-friendly HTML and CSS app that displays detailed stats and descriptio
 
 ## 🚀 Live Demo
 
-👉 [View Live Site](#)  
+👉 [View Live Site](https://helpful-faun-941db5.netlify.app)  
 
 ## 📸 Screenshot
 
